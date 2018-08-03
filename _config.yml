@@ -23,7 +23,7 @@ linkedin_username: carlos-freire-acebedo
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: minimal
 plugins:
   - jekyll-feed
 
